@@ -20,10 +20,10 @@
 
 Read the full report with the steps [here.](https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/Explore%20Weather%20Trends.pdf)
 
-(SQL Script)[https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/Explore_weather_trends.sql]
+[SQL Script](https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/Explore_weather_trends.sql)
 
-(SQL Processed Data File)[https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/yearly_average_temp.csv]
+[SQL Processed Data File](https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/yearly_average_temp.csv)
 
-(Python with Pandas Code)[https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/Explore-Weather-Trends.ipynb]
+[Python with Pandas Code](https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/Explore-Weather-Trends.ipynb)
 
-(Moving Averages Data File)[https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/processed_data.csv]
+[Moving Averages Data File](https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/processed_data.csv)
