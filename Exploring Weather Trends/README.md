@@ -24,6 +24,6 @@ Read the full report with the steps [here.](https://github.com/anujdutt9/Data-An
 
 [SQL Processed Data File](https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/yearly_average_temp.csv)
 
-[Python with Pandas Code](https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/Explore-Weather-Trends.ipynb)
+[Python Code for Analysis using Pandas](https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/Explore-Weather-Trends.ipynb)
 
 [Moving Averages Data File](https://github.com/anujdutt9/Data-Analyst-Nanodegree/blob/master/Exploring%20Weather%20Trends/processed_data.csv)
